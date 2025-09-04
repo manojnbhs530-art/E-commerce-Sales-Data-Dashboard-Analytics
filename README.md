@@ -1,2 +1,5 @@
-# E-commerce-Sales-Data-Dashboard-Analytics
-This project is an interactive Excel dashboard for analysing and visualizing sales performance. 
+This project focuses on analyzing e-commerce sales data using Microsoft Excel with the aim of converting raw information into meaningful business insights. The dataset was first cleaned by removing duplicates, handling missing values, and ensuring consistent formatting to make it suitable for analysis.
+
+The dashboard highlights different aspects of sales performance. It shows monthly sales trends for the year 2023, giving a clear view of peaks and declines across the year. Regional analysis compares sales among cities such as Delhi, Hyderabad, Kolkata, and Mumbai, while customer-level data reveals the key contributors driving overall revenue. Product-level insights demonstrate which individual products performed the best, and a category-level breakdown shows that electronics dominate the market compared to furniture and clothing.
+
+This work combines pivot tables, pivot charts, and interactive slicers to build a professional dashboard that is dynamic and easy to use. The visualizations allow users to filter data, track performance across multiple dimensions, and make informed decisions. The project demonstrates practical applications of Excel for data analytics, business intelligence, and dashboard creation, making it a strong portfolio piece for anyone pursuing opportunities in data-driven fields.
